@@ -9,4 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 0.1.0 (2020-09-10)
 
-- Initial release
+- Spruce up readme
+- Add code
+
+## 0.1.0 (2020-09-10)
+
+- Initial release (just to make sure the gem name is claimed)
