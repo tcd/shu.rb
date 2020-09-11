@@ -1,0 +1,3 @@
+{
+  "lib/shu/*.rb": { "alternate": "test/shu/{}_test.rb" }
+}

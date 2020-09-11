@@ -1,0 +1,12 @@
+{
+    "ruby.useBundler": true,
+    "ruby.pathToBundler": "/Users/clay/.rbenv/shims/bundle",
+    "ruby.interpreter.commandPath": "/Users/clay/.rbenv/shims/ruby",
+    "solargraph.useBundler": true,
+    "solargraph.bundlerPath": "/Users/clay/.rbenv/versions/2.6.5/bin/bundle",
+    "solargraph.commandPath": "/Users/clay/.rbenv/versions/2.6.5/bin/solargraph",
+    // "markiscodecoverage.searchCriteria": "coverage/lcov/student-portal-rails.lcov"
+    "coverage-gutters.showLineCoverage": true,
+    "coverage-gutters.coverageReportFileName": "coverage/**/index.html",
+    "coverage-gutters.coverageFileNames":[ "*.lcov" ],
+}
