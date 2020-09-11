@@ -1,16 +1,20 @@
-# `shu`
+# shu 👟
 
-<!-- [![Gem](https://img.shields.io/gem/v/shu)][rubygems] -->
-<!-- [![Build Status](https://travis-ci.org/tcd/shu.rb.svg?branch=master)][travis-ci] -->
-<!-- [![Coverage Status](https://coveralls.io/repos/github/tcd/shu/badge.svg?branch=master)][coveralls] -->
+[![Gem](https://img.shields.io/gem/v/shu)][rubygems]
+[![Build Status](https://travis-ci.org/tcd/shu.rb.svg?branch=master)][travis-ci]
+[![Coverage Status](https://coveralls.io/repos/github/tcd/shu.rb/badge.svg?branch=master)][coveralls]
+[![Documentation Coverage](http://inch-ci.org/github/tcd/shu.rb.svg?branch=master)][inch-ci]
 [![License](https://img.shields.io/github/license/tcd/shu.rb)][license]
-<!-- [![Documentation](http://img.shields.io/badge/docs-rubydoc.info-blue.svg)][docs] -->
+[![Documentation](http://img.shields.io/badge/docs-rubydoc.info-blue.svg)][docs]
 
-<!-- [rubygems]: https://rubygems.org/gems/shu -->
-<!-- [travis-ci]: https://travis-ci.org/tcd/shu.rb -->
-<!-- [coveralls]: https://coveralls.io/github/tcd.rb/shu?branch=master -->
+[rubygems]: https://rubygems.org/gems/shu
+[travis-ci]: https://travis-ci.org/tcd/shu.rb
+[coveralls]: https://coveralls.io/github/tcd.rb/shu.rb?branch=master
+[inch-ci]: https://coveralls.io/github/tcd/shu.rb?branch=master
 [license]: https://github.com/tcd/shu.rb/blob/master/LICENSE.txt
-<!-- [docs]: https://www.rubydoc.info/gems/shu/0.0.0 -->
+[docs]: https://www.rubydoc.info/gems/shu/0.1.0
+
+
 
 Track issues on GitHub and GitLab.
 
