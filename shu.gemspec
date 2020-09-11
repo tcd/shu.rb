@@ -36,6 +36,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 13.0"
   spec.add_development_dependency "simplecov", "~> 0.16"
   spec.add_development_dependency "solargraph", "~> 0.39.15"
+  spec.add_development_dependency "vcr", "~> 6.0"
+  spec.add_development_dependency "webmock", "~> 3.8"
 
   spec.add_runtime_dependency "octokit"
 end
