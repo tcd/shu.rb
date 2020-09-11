@@ -1,0 +1,81 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://api.github.com/repos/tcd/ginny/issues/2
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - application/vnd.github.v3+json
+      User-Agent:
+      - Octokit Ruby Gem 4.18.0
+      Content-Type:
+      - application/json
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - GitHub.com
+      Date:
+      - Fri, 11 Sep 2020 08:05:32 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Status:
+      - 200 OK
+      Cache-Control:
+      - public, max-age=60, s-maxage=60
+      Vary:
+      - Accept, Accept-Encoding, Accept, X-Requested-With
+      Etag:
+      - W/"5ca247d6bb69a01535de144e10fd89a4"
+      Last-Modified:
+      - Wed, 26 Aug 2020 06:37:47 GMT
+      X-Github-Media-Type:
+      - github.v3; format=json
+      Access-Control-Expose-Headers:
+      - ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining,
+        X-RateLimit-Used, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+        X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset
+      Access-Control-Allow-Origin:
+      - "*"
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubdomains; preload
+      X-Frame-Options:
+      - deny
+      X-Content-Type-Options:
+      - nosniff
+      X-Xss-Protection:
+      - 1; mode=block
+      Referrer-Policy:
+      - origin-when-cross-origin, strict-origin-when-cross-origin
+      Content-Security-Policy:
+      - default-src 'none'
+      X-Ratelimit-Limit:
+      - '60'
+      X-Ratelimit-Remaining:
+      - '45'
+      X-Ratelimit-Reset:
+      - '1599812902'
+      X-Ratelimit-Used:
+      - '15'
+      Accept-Ranges:
+      - bytes
+      Content-Length:
+      - '820'
+      X-Github-Request-Id:
+      - D66E:3D84:2A1BD9:6266A6:5F5B2FCC
+    body:
+      encoding: ASCII-8BIT
+      string: '{"url":"https://api.github.com/repos/tcd/ginny/issues/2","repository_url":"https://api.github.com/repos/tcd/ginny","labels_url":"https://api.github.com/repos/tcd/ginny/issues/2/labels{/name}","comments_url":"https://api.github.com/repos/tcd/ginny/issues/2/comments","events_url":"https://api.github.com/repos/tcd/ginny/issues/2/events","html_url":"https://github.com/tcd/ginny/issues/2","id":665277575,"node_id":"MDU6SXNzdWU2NjUyNzc1NzU=","number":2,"title":"Add
+        option to output YARD attribute macros","user":{"login":"tcd","id":51792731,"node_id":"MDQ6VXNlcjUxNzkyNzMx","avatar_url":"https://avatars3.githubusercontent.com/u/51792731?v=4","gravatar_id":"","url":"https://api.github.com/users/tcd","html_url":"https://github.com/tcd","followers_url":"https://api.github.com/users/tcd/followers","following_url":"https://api.github.com/users/tcd/following{/other_user}","gists_url":"https://api.github.com/users/tcd/gists{/gist_id}","starred_url":"https://api.github.com/users/tcd/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/tcd/subscriptions","organizations_url":"https://api.github.com/users/tcd/orgs","repos_url":"https://api.github.com/users/tcd/repos","events_url":"https://api.github.com/users/tcd/events{/privacy}","received_events_url":"https://api.github.com/users/tcd/received_events","type":"User","site_admin":false},"labels":[{"id":1677049649,"node_id":"MDU6TGFiZWwxNjc3MDQ5NjQ5","url":"https://api.github.com/repos/tcd/ginny/labels/enhancement","name":"enhancement","color":"a2eeef","default":true,"description":"New
+        feature or request"}],"state":"open","locked":false,"assignee":null,"assignees":[],"milestone":null,"comments":0,"created_at":"2020-07-24T16:22:46Z","updated_at":"2020-07-24T16:22:46Z","closed_at":null,"author_association":"OWNER","active_lock_reason":null,"body":"Add
+        the option to output YARD [`@!attribute`](https://www.rubydoc.info/gems/yard/file/docs/Tags.md#attribute)s
+        in place of `attr_reader`, `attr_writer`, or`attr_accessor`.","closed_by":null,"performed_via_github_app":null}'
+  recorded_at: Fri, 11 Sep 2020 08:05:32 GMT
+recorded_with: VCR 6.0.0
