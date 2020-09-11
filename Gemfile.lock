@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    shu (0.1.0)
+    shu (0.0.0)
 
 GEM
   remote: https://rubygems.org/
@@ -27,7 +27,7 @@ GEM
     pry (0.12.2)
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
-    rake (12.3.3)
+    rake (13.0.1)
     ruby-progressbar (1.10.1)
     simplecov (0.16.1)
       docile (~> 1.1)
@@ -50,7 +50,7 @@ DEPENDENCIES
   minitest (~> 5.0)
   minitest-reporters (~> 1.4)
   pry (~> 0.12.2)
-  rake (~> 12.0)
+  rake (~> 13.0)
   shu!
   simplecov (~> 0.16)
 
