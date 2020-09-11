@@ -29,9 +29,13 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 2.0"
   spec.add_development_dependency "coveralls", "~> 0.8.23"
+  spec.add_development_dependency "declarative_minitest", "~> 0.1.1"
   spec.add_development_dependency "minitest", "~> 5.0"
   spec.add_development_dependency "minitest-reporters", "~> 1.4"
   spec.add_development_dependency "pry", "~> 0.12.2"
   spec.add_development_dependency "rake", "~> 13.0"
   spec.add_development_dependency "simplecov", "~> 0.16"
+  spec.add_development_dependency "solargraph", "~> 0.39.15"
+
+  spec.add_runtime_dependency "octokit"
 end
