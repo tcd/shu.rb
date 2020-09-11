@@ -1,3 +1,4 @@
 module Shu
-  VERSION = "0.1.0"
+  # @return [String]
+  VERSION = "0.0.0".freeze()
 end

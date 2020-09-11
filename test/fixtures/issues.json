@@ -1,0 +1,862 @@
+[
+  {
+    "repoOwner": "jung-kurt",
+    "repoName": "gofpdf",
+    "number": 270,
+    "title": "gopdf cannot render emoji correctly",
+    "open": true,
+    "createdAt": "2019-06-19T22:26:27Z",
+    "updatedAt": "2019-08-12T15:07:32Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "golang",
+    "repoName": "go",
+    "number": 24841,
+    "title": "os/user: fails to compile with 'osusergo' tag on linux/amd64",
+    "open": false,
+    "createdAt": "2018-04-13T13:28:15Z",
+    "updatedAt": "2019-04-16T21:36:11Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "rust-lang",
+    "repoName": "cargo",
+    "number": 2729,
+    "title": "Support installing manpages (and potentially other files)",
+    "open": true,
+    "createdAt": "2016-05-23T14:56:51Z",
+    "updatedAt": "2019-05-22T00:28:48Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "signintech",
+    "repoName": "gopdf",
+    "number": 81,
+    "title": "Emojis are not getting rendered",
+    "open": true,
+    "createdAt": "2018-07-03T01:38:48Z",
+    "updatedAt": "2018-10-08T05:32:12Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "angular",
+    "repoName": "components",
+    "number": 2936,
+    "title": "[Sidenav] Open sidenav from another component",
+    "open": false,
+    "createdAt": "2017-02-04T19:22:25Z",
+    "updatedAt": "2018-12-18T07:53:18Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "spf13",
+    "repoName": "cobra",
+    "number": 107,
+    "title": "zsh autocompletion generator",
+    "open": true,
+    "createdAt": "2015-05-12T17:39:27Z",
+    "updatedAt": "2019-05-02T13:23:35Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "badges",
+    "repoName": "shields",
+    "number": 1529,
+    "title": "Badge request: FOSSA",
+    "open": true,
+    "createdAt": "2018-02-27T14:40:21Z",
+    "updatedAt": "2019-01-28T20:39:52Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "gizak",
+    "repoName": "termui",
+    "number": 209,
+    "title": "Focusable widgets",
+    "open": true,
+    "createdAt": "2019-01-24T06:50:28Z",
+    "updatedAt": "2019-04-25T20:34:09Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "jung-kurt",
+    "repoName": "gofpdf",
+    "number": 255,
+    "title": "generateCIDFontMap panic on loading fonts with glyphs indexed at high numbers",
+    "open": true,
+    "createdAt": "2019-05-14T23:09:59Z",
+    "updatedAt": "2019-08-06T12:28:42Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "jung-kurt",
+    "repoName": "gofpdf",
+    "number": 241,
+    "title": "Error rendering custom font map",
+    "open": false,
+    "createdAt": "2019-04-14T19:57:29Z",
+    "updatedAt": "2019-05-14T22:43:39Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "jung-kurt",
+    "repoName": "gofpdf",
+    "number": 161,
+    "title": "Help: Create Nested List",
+    "open": false,
+    "createdAt": "2018-02-08T00:15:08Z",
+    "updatedAt": "2018-12-19T14:31:00Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "jung-kurt",
+    "repoName": "gofpdf",
+    "number": 166,
+    "title": "Add SVG image support",
+    "open": true,
+    "createdAt": "2018-02-28T17:51:20Z",
+    "updatedAt": "2019-02-26T16:12:57Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "google",
+    "repoName": "fonts",
+    "number": 1173,
+    "title": "Add Open Sans Emoji",
+    "open": true,
+    "createdAt": "2017-08-28T19:32:11Z",
+    "updatedAt": "2017-09-22T02:33:48Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "jung-kurt",
+    "repoName": "gofpdf",
+    "number": 168,
+    "title": "introduce an io.Reader-based API for MakeFont",
+    "open": true,
+    "createdAt": "2018-03-22T18:32:40Z",
+    "updatedAt": "2019-01-17T22:56:34Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "spf13",
+    "repoName": "viper",
+    "number": 430,
+    "title": "Simple way to initialize a config file",
+    "open": true,
+    "createdAt": "2017-12-22T01:33:23Z",
+    "updatedAt": "2019-06-18T04:04:05Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "AlecAivazis",
+    "repoName": "survey",
+    "number": 103,
+    "title": "Ctrl-C doesn't exit ",
+    "open": false,
+    "createdAt": "2017-10-19T17:44:20Z",
+    "updatedAt": "2017-10-19T19:12:51Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "AlecAivazis",
+    "repoName": "survey",
+    "number": 196,
+    "title": "Allow editing of existing text",
+    "open": true,
+    "createdAt": "2019-05-17T17:13:42Z",
+    "updatedAt": "2019-06-05T16:45:45Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "jung-kurt",
+    "repoName": "gofpdf",
+    "number": 133,
+    "title": "Multiple Code Pages Possible?",
+    "open": true,
+    "createdAt": "2017-09-06T17:51:36Z",
+    "updatedAt": "2018-02-14T02:24:46Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "gohugoio",
+    "repoName": "hugo",
+    "number": 4296,
+    "title": "ZSH shell completion",
+    "open": false,
+    "createdAt": "2018-01-18T19:49:37Z",
+    "updatedAt": "2018-08-30T19:17:48Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "pry",
+    "repoName": "pry",
+    "number": 1579,
+    "title": "Sorry, you can't use Pry without Readline or a compatible library",
+    "open": false,
+    "createdAt": "2016-11-02T16:21:23Z",
+    "updatedAt": "2019-05-09T07:21:22Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "tmdvs",
+    "repoName": "Go-Emoji-Utils",
+    "number": 6,
+    "title": "License?",
+    "open": true,
+    "createdAt": "2019-09-04T17:45:10Z",
+    "updatedAt": "2019-09-04T17:45:10Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "goreleaser",
+    "repoName": "goreleaser",
+    "number": 967,
+    "title": "private homebrew taps reporting uninitialized constant GitHubPrivateRepositoryReleaseDownloadStrategy",
+    "open": false,
+    "createdAt": "2019-02-25T18:26:00Z",
+    "updatedAt": "2019-08-31T13:33:12Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "rails",
+    "repoName": "rails",
+    "number": 26731,
+    "title": "Test database is created with environment='development' when running rake db:test:prepare",
+    "open": false,
+    "createdAt": "2016-10-07T18:11:45Z",
+    "updatedAt": "2019-04-08T22:12:43Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "Shopify",
+    "repoName": "shopify_api",
+    "number": 380,
+    "title": "Product image position (main image) on image creation",
+    "open": true,
+    "createdAt": "2017-08-05T18:28:02Z",
+    "updatedAt": "2019-07-22T08:28:53Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "flori",
+    "repoName": "json",
+    "number": 253,
+    "title": "json-1.8.3 Gem::Ext::BuildError: ERROR: Failed to build gem native extension.",
+    "open": true,
+    "createdAt": "2015-07-31T06:43:26Z",
+    "updatedAt": "2018-04-25T13:11:11Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "colszowka",
+    "repoName": "simplecov",
+    "number": 96,
+    "title": "Fail if coverage under threshold",
+    "open": false,
+    "createdAt": "2011-11-30T05:09:36Z",
+    "updatedAt": "2019-09-18T16:46:04Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "colbygk",
+    "repoName": "log4r",
+    "number": 60,
+    "title": "yamlconfigurator issue in Ruby 2.5.0",
+    "open": true,
+    "createdAt": "2018-04-05T15:43:55Z",
+    "updatedAt": "2018-04-05T15:43:55Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "Microsoft",
+    "repoName": "vscode",
+    "number": 38834,
+    "title": "ANSI color support in edit buffer",
+    "open": true,
+    "createdAt": "2017-11-21T04:00:42Z",
+    "updatedAt": "2019-09-12T15:59:18Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "docker",
+    "repoName": "compose",
+    "number": 6838,
+    "title": "Variable name may not contain whitespace",
+    "open": true,
+    "createdAt": "2019-08-07T11:45:16Z",
+    "updatedAt": "2019-09-02T16:27:09Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "docker",
+    "repoName": "compose",
+    "number": 6511,
+    "title": "`.env` with `export` Lines No Longer Works",
+    "open": true,
+    "createdAt": "2019-02-07T17:30:48Z",
+    "updatedAt": "2019-09-06T14:35:08Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "castwide",
+    "repoName": "solargraph",
+    "number": 194,
+    "title": "Relation with Sorbet",
+    "open": true,
+    "createdAt": "2019-06-20T19:27:14Z",
+    "updatedAt": "2019-06-23T17:06:01Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "aws",
+    "repoName": "aws-sdk-ruby",
+    "number": 1967,
+    "title": "Passing in a closed `Tempfile` to `Aws::S3::FileUploader#upload` raises",
+    "open": true,
+    "createdAt": "2019-01-25T03:48:49Z",
+    "updatedAt": "2019-09-10T22:35:36Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "lsegal",
+    "repoName": "yard",
+    "number": 1217,
+    "title": "[Question] syntax highlight for yard comments in visual studio code",
+    "open": true,
+    "createdAt": "2019-01-22T01:01:19Z",
+    "updatedAt": "2019-10-02T19:49:38Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "castwide",
+    "repoName": "solargraph",
+    "number": 87,
+    "title": "Rails support",
+    "open": true,
+    "createdAt": "2018-09-17T12:30:56Z",
+    "updatedAt": "2019-10-02T17:02:43Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "ondrejbartas",
+    "repoName": "sidekiq-cron",
+    "number": 228,
+    "title": "Elastic Beanstalk support",
+    "open": true,
+    "createdAt": "2018-10-22T22:30:51Z",
+    "updatedAt": "2019-10-04T15:36:42Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "rails",
+    "repoName": "rails",
+    "number": 32947,
+    "title": "rails assets:precompile in production failed due to missing master key",
+    "open": false,
+    "createdAt": "2018-05-21T14:11:49Z",
+    "updatedAt": "2019-10-01T18:49:56Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "docker-library",
+    "repoName": "ruby",
+    "number": 129,
+    "title": "introduction of BUNDLE_APP_CONFIG leads to unexpected behavior for 'statically' bundled apps",
+    "open": false,
+    "createdAt": "2017-05-16T23:16:50Z",
+    "updatedAt": "2018-05-14T19:24:08Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "bundler",
+    "repoName": "bundler",
+    "number": 6882,
+    "title": "bundler version 2.0.1 fails to run",
+    "open": false,
+    "createdAt": "2019-01-05T18:51:36Z",
+    "updatedAt": "2019-07-14T04:22:58Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "rails",
+    "repoName": "rails",
+    "number": 34748,
+    "title": "Active Storage with FTP support",
+    "open": false,
+    "createdAt": "2018-12-19T17:06:49Z",
+    "updatedAt": "2019-10-02T13:30:41Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "seuros",
+    "repoName": "capistrano-sidekiq",
+    "number": 234,
+    "title": "--index argument must be removed from the sidekiq start script",
+    "open": true,
+    "createdAt": "2019-09-11T11:24:23Z",
+    "updatedAt": "2019-09-22T16:45:56Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "seuros",
+    "repoName": "capistrano-sidekiq",
+    "number": 224,
+    "title": "Gem will break after Sidekiq 6.0 has been released",
+    "open": true,
+    "createdAt": "2019-01-31T20:22:19Z",
+    "updatedAt": "2019-10-05T22:12:39Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "golang",
+    "repoName": "go",
+    "number": 6909,
+    "title": "cmd/cover: should support -coverprofile unifying tests from multiple packages",
+    "open": false,
+    "createdAt": "2013-12-06T22:14:16Z",
+    "updatedAt": "2018-11-10T19:52:50Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "golang",
+    "repoName": "go",
+    "number": 23883,
+    "title": "cmd/go: -coverpkg=all gives different coverage value when run on a package list vs ./...",
+    "open": true,
+    "createdAt": "2018-02-17T03:08:14Z",
+    "updatedAt": "2019-10-09T20:12:50Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "crystal-lang",
+    "repoName": "crystal",
+    "number": 4613,
+    "title": "Improve Markdown implementation - Or: Should we separate compiler tools?",
+    "open": true,
+    "createdAt": "2017-06-23T15:53:37Z",
+    "updatedAt": "2019-09-13T11:08:19Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "microsoft",
+    "repoName": "vscode-eslint",
+    "number": 124,
+    "title": ".eslintrc.js does not have suggestions",
+    "open": true,
+    "createdAt": "2016-08-31T07:41:54Z",
+    "updatedAt": "2020-01-29T17:05:38Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "zdennis",
+    "repoName": "activerecord-import",
+    "number": 442,
+    "title": "before_save, before_create, before_update",
+    "open": false,
+    "createdAt": "2017-08-21T23:18:22Z",
+    "updatedAt": "2018-10-03T15:05:02Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "cdale77",
+    "repoName": "active_job_status",
+    "number": 23,
+    "title": "[FEATURE REQUEST] Web Interface",
+    "open": true,
+    "createdAt": "2017-07-14T11:37:21Z",
+    "updatedAt": "2017-07-14T11:37:21Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "swimlane",
+    "repoName": "ngx-datatable",
+    "number": 842,
+    "title": "Column width to auto-adjusting depending on column content",
+    "open": true,
+    "createdAt": "2017-06-28T19:28:28Z",
+    "updatedAt": "2020-06-13T21:31:48Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "tmuxinator",
+    "repoName": "tmuxinator",
+    "number": 366,
+    "title": "tmuxinator does not execute .tmux.conf",
+    "open": true,
+    "createdAt": "2016-01-03T00:49:55Z",
+    "updatedAt": "2018-01-22T16:59:55Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "tmuxinator",
+    "repoName": "tmuxinator",
+    "number": 488,
+    "title": "Problem with `root` parameter ",
+    "open": true,
+    "createdAt": "2016-12-08T09:41:13Z",
+    "updatedAt": "2017-06-12T20:05:24Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "lsegal",
+    "repoName": "yard",
+    "number": 941,
+    "title": "Not generating documentation where alias is used",
+    "open": false,
+    "createdAt": "2016-02-08T08:12:03Z",
+    "updatedAt": "2016-07-07T02:26:03Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "radar",
+    "repoName": "humanize",
+    "number": 53,
+    "title": "add support for ordinal numbers",
+    "open": true,
+    "createdAt": "2019-02-26T21:49:45Z",
+    "updatedAt": "2019-02-26T22:00:02Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "castwide",
+    "repoName": "vscode-solargraph",
+    "number": 26,
+    "title": "Solargraph with Docker",
+    "open": true,
+    "createdAt": "2018-02-17T01:35:16Z",
+    "updatedAt": "2020-04-02T21:36:59Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "castwide",
+    "repoName": "vscode-solargraph",
+    "number": 12,
+    "title": "Question: setup with multi Ruby install",
+    "open": true,
+    "createdAt": "2017-09-25T01:29:09Z",
+    "updatedAt": "2019-08-16T21:15:10Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "moby",
+    "repoName": "moby",
+    "number": 37129,
+    "title": "Proposal: add support for multiple (named) build-contexts",
+    "open": true,
+    "createdAt": "2018-05-23T00:18:17Z",
+    "updatedAt": "2020-06-25T12:31:09Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "moby",
+    "repoName": "moby",
+    "number": 2745,
+    "title": "Add with relative path to parent directory fails with \"Forbidden path\"",
+    "open": false,
+    "createdAt": "2013-11-18T12:55:12Z",
+    "updatedAt": "2018-05-23T00:20:32Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "Njanderson",
+    "repoName": "resmon",
+    "number": 34,
+    "title": "Feature Request: Changeable Status Bar Alignment \u0026 Priority and Customizable Icons",
+    "open": true,
+    "createdAt": "2020-06-27T05:32:37Z",
+    "updatedAt": "2020-06-27T05:32:37Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "Microsoft",
+    "repoName": "vscode",
+    "number": 20530,
+    "title": "Search: target particular set of files",
+    "open": true,
+    "createdAt": "2017-02-13T07:34:06Z",
+    "updatedAt": "2020-07-15T14:41:25Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "microsoft",
+    "repoName": "vscode-docs",
+    "number": 2325,
+    "title": "global search: backreferences are not supported",
+    "open": false,
+    "createdAt": "2019-01-08T11:34:50Z",
+    "updatedAt": "2019-12-09T04:13:27Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "castwide",
+    "repoName": "solargraph",
+    "number": 265,
+    "title": "Question: How can I share config / docs between Solargraph and Yard ?",
+    "open": true,
+    "createdAt": "2020-01-22T01:11:34Z",
+    "updatedAt": "2020-01-22T07:43:19Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "rails",
+    "repoName": "rails",
+    "number": 32995,
+    "title": "\"Dangerous query method\" deprecation warning matches `random()` function call",
+    "open": false,
+    "createdAt": "2018-05-25T23:16:11Z",
+    "updatedAt": "2020-05-19T10:17:02Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "rails",
+    "repoName": "rails",
+    "number": 37042,
+    "title": "Rake DB tasks don't properly initialize environment when switching from development to test env",
+    "open": true,
+    "createdAt": "2019-08-26T12:20:59Z",
+    "updatedAt": "2020-05-26T13:38:39Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "googleapis",
+    "repoName": "google-api-ruby-client",
+    "number": 296,
+    "title": "Access google apis using access_token and refresh_token",
+    "open": false,
+    "createdAt": "2015-10-11T19:57:49Z",
+    "updatedAt": "2020-04-07T13:08:07Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "angular",
+    "repoName": "angular-cli",
+    "number": 4839,
+    "title": "keep get  [WDS] disconnected! ",
+    "open": false,
+    "createdAt": "2017-02-20T07:10:16Z",
+    "updatedAt": "2019-09-09T18:42:02Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "angular",
+    "repoName": "angular-cli",
+    "number": 13915,
+    "title": "[WDS] Disconnected! on firefox but works well in chrome Angular CLI 7.3.5 ",
+    "open": false,
+    "createdAt": "2019-03-14T06:17:24Z",
+    "updatedAt": "2019-09-09T17:41:43Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "dbfannin",
+    "repoName": "ngx-logger",
+    "number": 187,
+    "title": "Issues with filenames \u0026 line numbers",
+    "open": true,
+    "createdAt": "2020-04-09T07:57:48Z",
+    "updatedAt": "2020-06-05T14:02:52Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "dbfannin",
+    "repoName": "ngx-logger",
+    "number": 166,
+    "title": "File and line freezes (sourceMap problem)",
+    "open": false,
+    "createdAt": "2020-01-28T09:28:30Z",
+    "updatedAt": "2020-04-09T07:58:56Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "angular",
+    "repoName": "angular-cli",
+    "number": 13734,
+    "title": "Angular 7/8 FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed - JavaScript heap out of memory",
+    "open": false,
+    "createdAt": "2019-02-21T13:05:01Z",
+    "updatedAt": "2020-07-01T14:32:03Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "angular",
+    "repoName": "angular-cli",
+    "number": 5618,
+    "title": "AOT build fails due to \"JavaScript heap out of memory\"",
+    "open": false,
+    "createdAt": "2017-03-24T09:39:17Z",
+    "updatedAt": "2018-12-27T13:32:11Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "angular",
+    "repoName": "angular-cli",
+    "number": 18087,
+    "title": "Angular v10 - Excessive memory consumption at build",
+    "open": false,
+    "createdAt": "2020-06-30T07:27:40Z",
+    "updatedAt": "2020-07-21T10:22:16Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "webpack",
+    "repoName": "webpack-dev-server",
+    "number": 1796,
+    "title": "\"[WDS] Disconnected\" loop",
+    "open": true,
+    "createdAt": "2019-04-13T07:22:27Z",
+    "updatedAt": "2020-07-03T08:09:00Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "googleapis",
+    "repoName": "google-api-ruby-client",
+    "number": 101,
+    "title": "Testing tools?",
+    "open": false,
+    "createdAt": "2013-12-03T18:02:04Z",
+    "updatedAt": "2020-04-07T13:11:03Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "fxn",
+    "repoName": "zeitwerk",
+    "number": 129,
+    "title": "Evaluate opening a bit the way to define explicit namespaces",
+    "open": false,
+    "createdAt": "2020-07-11T10:21:40Z",
+    "updatedAt": "2020-07-19T11:43:00Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "rails",
+    "repoName": "rails-docs-server",
+    "number": 10,
+    "title": "Being able to have links when navigating (edge)api.rubyonrails.org",
+    "open": true,
+    "createdAt": "2019-03-20T17:49:05Z",
+    "updatedAt": "2019-04-19T13:32:31Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "jnunemaker",
+    "repoName": "httparty",
+    "number": 568,
+    "title": "Please don't implement `.nil?`",
+    "open": true,
+    "createdAt": "2018-01-25T23:08:41Z",
+    "updatedAt": "2019-11-05T17:11:32Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "IonicaBizau",
+    "repoName": "image-to-ascii",
+    "number": 65,
+    "title": "Promise support",
+    "open": false,
+    "createdAt": "2020-06-02T10:00:10Z",
+    "updatedAt": "2020-08-09T12:09:01Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "mermaid-js",
+    "repoName": "mermaid",
+    "number": 1338,
+    "title": "What state is issue 117 in (ERD diagrams)?",
+    "open": false,
+    "createdAt": "2020-04-06T00:57:02Z",
+    "updatedAt": "2020-04-18T10:14:54Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "mermaid-js",
+    "repoName": "mermaid",
+    "number": 1609,
+    "title": "Page https://mermaid-js.github.io/mermaid/#/stateDiagram is almost blank",
+    "open": true,
+    "createdAt": "2020-08-12T05:19:16Z",
+    "updatedAt": "2020-08-13T10:47:55Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "castwide",
+    "repoName": "vscode-solargraph",
+    "number": 188,
+    "title": "No implicit conversion of nil into String - ActiveRecord::Base query",
+    "open": true,
+    "createdAt": "2020-08-10T05:16:24Z",
+    "updatedAt": "2020-08-15T22:50:14Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "TrestleAdmin",
+    "repoName": "trestle",
+    "number": 208,
+    "title": "Missing docs?",
+    "open": true,
+    "createdAt": "2019-06-07T19:46:45Z",
+    "updatedAt": "2019-07-14T05:35:47Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "lsegal",
+    "repoName": "yard",
+    "number": 1306,
+    "title": "organize yard menu (contain classes in folders like modules)",
+    "open": false,
+    "createdAt": "2020-01-31T15:02:30Z",
+    "updatedAt": "2020-02-07T16:50:51Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "TrestleAdmin",
+    "repoName": "trestle",
+    "number": 191,
+    "title": "Same critical error of all Admin systems",
+    "open": true,
+    "createdAt": "2019-04-11T03:28:37Z",
+    "updatedAt": "2019-05-06T12:39:54Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "lsegal",
+    "repoName": "yard",
+    "number": 1121,
+    "title": "Link external documentations",
+    "open": true,
+    "createdAt": "2017-09-29T16:09:32Z",
+    "updatedAt": "2017-10-17T02:01:09Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "paper-trail-gem",
+    "repoName": "paper_trail",
+    "number": 1059,
+    "title": "Missing documentation for PaperTrail.controller_info",
+    "open": false,
+    "createdAt": "2018-02-28T10:08:52Z",
+    "updatedAt": "2018-05-08T15:05:57Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "paper-trail-gem",
+    "repoName": "paper_trail",
+    "number": 930,
+    "title": "Overriding info_for_paper_trail not saving IP for custom version class",
+    "open": false,
+    "createdAt": "2017-02-20T23:04:43Z",
+    "updatedAt": "2018-05-08T15:05:49Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  },
+  {
+    "repoOwner": "paper-trail-gem",
+    "repoName": "paper_trail",
+    "number": 524,
+    "title": "Sidekiq job class name as meta data",
+    "open": false,
+    "createdAt": "2015-04-18T03:07:26Z",
+    "updatedAt": "2018-05-08T15:05:23Z",
+    "trackedSince": "0001-01-01T00:00:00Z"
+  }
+]

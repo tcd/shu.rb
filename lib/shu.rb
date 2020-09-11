@@ -1,6 +1,5 @@
 require "shu/version"
 
+# Track issues on GitHub and GitLab.
 module Shu
-  class Error < StandardError; end
-  # Your code goes here...
 end
